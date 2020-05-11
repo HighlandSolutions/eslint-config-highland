@@ -1,0 +1,27 @@
+{
+	"name": "eslint-config-highland",
+	"version": "1.0.0",
+	"description": "Highland's ESLint config",
+	"main": "index.js",
+	"dependencies": {
+		"@vue/eslint-config-airbnb": "^5.0.2",
+		"eslint": "^7.0.0",
+		"eslint-config-airbnb": "^18.1.0",
+		"eslint-plugin-import": "^2.20.2",
+		"eslint-plugin-vue": "^6.2.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/highlandsolutions/eslint-config-highland.git"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig"
+	],
+	"author": "Curtis Blackwell <cblackwell@highlandsolutions.com> (https://highlandsolutions.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/highlandsolutions/eslint-config-highland/issues"
+	},
+	"homepage": "https://github.com/highlandsolutions/eslint-config-highland#readme"
+}
