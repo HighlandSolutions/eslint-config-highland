@@ -1,5 +1,5 @@
 {
-	"name": "eslint-config-highland",
+	"name": "@highlandsolutions/eslint-config-highland",
 	"version": "1.0.0",
 	"description": "Highland's ESLint config",
 	"main": "index.js",
