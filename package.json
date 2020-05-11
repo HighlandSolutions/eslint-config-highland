@@ -1,6 +1,6 @@
 {
 	"name": "@highlandsolutions/eslint-config-highland",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Highland's ESLint config",
 	"main": "index.js",
 	"dependencies": {

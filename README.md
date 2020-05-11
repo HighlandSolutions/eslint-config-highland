@@ -1,6 +1,7 @@
 # eslint-config-highland
 This package provides two ESLint configs: one for general JavaScript (the default) and one for Vue CLI setups.
 
+
 ## Installation
 ```sh
 npm i -D @highlandsolutions/eslint-config-highland
