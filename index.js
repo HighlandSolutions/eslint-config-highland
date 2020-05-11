@@ -1,4 +1,4 @@
 module.exports = {
   root:    true,
-  extends: 'highland/lib/base',
+  extends: '@highlandsolutions/highland/lib/base',
 };
